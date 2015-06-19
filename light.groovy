@@ -46,4 +46,4 @@ def initialize() {
 // event handlers are passed the event itself
 def contactHandler(evt) {
     switch1.off();
-  
+}
